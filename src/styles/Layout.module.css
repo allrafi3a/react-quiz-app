@@ -1,13 +1,10 @@
-.account {
-  width: 50%;
-  display: flex;
-  gap: 0.5rem;
-  justify-content: flex-end;
-  align-items: center;
-  margin-right: 30px;
-  font-size: 12px;
+/* layout component */
+.main {
+  width: 100%;
+  padding: 4rem 0;
 }
 
-.account > span:last-child {
-  cursor: pointer;
+.container {
+  width: 90%;
+  margin: 2rem auto;
 }
