@@ -3,7 +3,8 @@ import Layout from "./Layout";
 // import Login from "./pages/Login";
 // import Home from "./pages/Home";
 // import Signup from "./pages/Signup";
-import Quiz from "./pages/Quiz";
+// import Quiz from "./pages/Quiz";
+import Result from "./pages/Result";
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
       {/* <Login /> */}
       {/* <Signup /> */}
       {/* <Home /> */}
-      <Quiz />
+      {/* <Quiz /> */}
+      <Result />
     </Layout>
   );
 }
