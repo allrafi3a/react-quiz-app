@@ -19,7 +19,7 @@ export default function Login() {
                         <span>Submit now</span>
                     </Button>
 
-                    <div class="info">Don't have an account? <a href="signup.html">Signup</a> instead.</div>
+                    <div className="info">Don't have an account? <a href="signup.html">Signup</a> instead.</div>
                 </Form>
             </div>
         </>

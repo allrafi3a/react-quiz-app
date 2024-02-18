@@ -5,7 +5,7 @@ import Video from './Video'
 
 export default function Videos() {
     return (
-        <div class={classes.videos}>
+        <div className={classes.videos}>
             <Link to="/quiz"><Video /></Link>
             <Link to="/quiz"><Video /></Link>
             <Link to="/quiz"><Video /></Link>
